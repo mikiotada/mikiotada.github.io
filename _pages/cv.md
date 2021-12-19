@@ -19,7 +19,6 @@ Work experience
 * 2021 - Present: Research Data Analyst at UCSF
 * 2020-2021: Data Scientist at The Data Institute, San Francisco
 * 2019-2020: Data Science Intern at Virgo Surgical Video Solutions, San Francisco
-
 * Summer 2017: Business Analyst Intern at Dentsu Sports Asia, Singapore
   
 <!-- Skills
